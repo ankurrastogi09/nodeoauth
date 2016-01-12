@@ -1,0 +1,23 @@
+{
+  "name": "profilebag-oauth",
+  "version": "0.0.0",
+  "description": "ProfileBag oAuth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:zextr/profilebag-oauth.git"
+  },
+  "author": {
+    "name": "ProfileBag"
+  },
+  "readme": "profilebag-oauth\n----------\n\nThis module is used for authenticating users.\n\n\n",
+  "readmeFilename": "README.md",
+  "_id": "profilebag-oauth@0.0.0",
+  "_from": "git+ssh://git@bitbucket.org:zextr/profilebag-oauth.git",
+  "dependencies": {
+    "util": "~0.10.3"
+  }
+}
